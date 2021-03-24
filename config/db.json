@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "nombre": "Adriana",
+      "apellidos": "cordero",
+      "edad": 31,
+      "email": "adriana@hotmail.com",
+      "id": 1
+    },
+    {
+      "nombre": "Adriana",
+      "apellidos": "cordero",
+      "edad": 31,
+      "email": "adriana@hotmail.com",
+      "id": 2
+    },
+    {
+      "nombre": "Adriana",
+      "apellidos": "cordero",
+      "edad": 31,
+      "email": "adriana@hotmail.com",
+      "id": 3
+    }
+  ]
+}
